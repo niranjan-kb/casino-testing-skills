@@ -1,6 +1,6 @@
 # 🎰 Casino Testing Skills
 
-Welcome to the **Casino Testing Skills** repository! This project is a cutting-edge, AI-driven test automation and network debugging framework specifically designed for testing cross-platform Casino applications.
+Welcome to the **Casino Testing Skills** repository! This project is AI-driven test automation and network debugging framework specifically designed for testing cross-platform Casino applications.
 
 By leveraging the power of the **Model Context Protocol (MCP)**, this repository integrates AI assistants (like Cursor and Claude) directly into the testing and debugging workflows across iOS, Android, and Web platforms.
 
