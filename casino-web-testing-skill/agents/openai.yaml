@@ -1,0 +1,4 @@
+interface:
+  display_name: "Casino Web Testing"
+  short_description: "Traverse casino tabs, time loads, and verify login"
+  default_prompt: "Use $casino-web-testing-skill to test a casino website by first asking for URL, login ID/email, and password, then report tab load times and login status."
