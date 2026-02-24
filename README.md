@@ -1,4 +1,7 @@
 # 🎰 Casino Testing Skills
+
+> *"Hey chat-gpt, can you configure the stacked tray widget in playbook and see if the games are reflected on the casino web app"*
+
 > *"Hey chat-gpt, can you use Proxyman to intercept the /api/wallet/balance endpoint and return a mock JSON response with a balance of $99,999, show me how the game screen looks like with a 5 digit wallet response."*
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/1a8c0985-2127-4f9f-b39d-23d70df2b6bd" />
