@@ -2,15 +2,16 @@
 
 Welcome to the **Casino Testing Skills** repository! This project is AI-driven test automation and network debugging framework specifically designed for testing cross-platform Casino applications.
 
-## the idea is simple:  LLM will handle local android/ios device through appium -> change the config network response through proxyman and report results in an intuitive html format.
+Prompt: "Use Proxyman to intercept the /api/wallet/balance endpoint and return a mock JSON response with a balance of $99,999, show me how the game screen looks like with a 5 digit wallet response."
 
-By leveraging the power of the **Model Context Protocol (MCP)**, this repository integrates AI assistants (like Cursor and Claude) directly into the testing and debugging workflows across iOS, Android, and Web platforms.
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/1a8c0985-2127-4f9f-b39d-23d70df2b6bd" />
 
 ---
 
 ## 🚀 Tech Stack
 
 This framework combines industry-leading automation tools with intelligent AI context servers:
+By leveraging the power of the **Model Context Protocol (MCP)**, this repository integrates AI assistants directly into the testing and debugging workflows across iOS, Android, and Web platforms.
 
 * **📱 Mobile Automation:** [Appium MCP](https://github.com/appium/appium-mcp)
 * Automated UI interactions for **iOS Simulators** (XCUITest) and **Android Emulators** (UiAutomator2).
